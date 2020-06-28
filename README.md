@@ -9,8 +9,8 @@
 * Export image size and size after compression.
 
 ## Interface
-
-
+![interface](https://github.com/tieukhoimai/image_compress_wavelet/blob/master/interface_ColorImage.png)
+![interface](https://github.com/tieukhoimai/image_compress_wavelet/blob/master/interface_GrayImage.png)
 ## Explaination def
 
 ```
