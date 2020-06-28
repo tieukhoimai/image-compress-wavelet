@@ -8,6 +8,9 @@
 * Set options compression ratio and compression quality.
 * Export image size and size after compression.
 
+## Interface
+
+
 ## Explaination def
 
 ```
