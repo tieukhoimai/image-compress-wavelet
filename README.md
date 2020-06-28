@@ -1,2 +1,2 @@
-# image_compress_wavelet
+# Image Compress Wavelet
 Image compression using wavelet transform
